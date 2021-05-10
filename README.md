@@ -5,6 +5,13 @@ for K Vijay Kumar Pvt Ltd <br /><br />
 
 *This project was developed for A B2B Wholesaler of Clothes for tracking of orders, managing the products and to digitize their business, I was responsible for managing the backend and admin side of the project*<br />
 
+**Demo User IDs**
+User Type  | Email | Password
+------------- | ------------- | -------------
+Admin  | 9011111111 | 12345
+Sub Admin | 9111111111 | 12345
+<br />
+
 **Screenshots**
 
 _Login_<br />
